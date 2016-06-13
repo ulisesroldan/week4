@@ -47,6 +47,7 @@
 		E157004E1D0E5D0900B596CB /* Semana4SwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Semana4SwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E15700521D0E5D1000B596CB /* Semana4SwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Semana4SwiftUITests.swift; sourceTree = "<group>"; };
 		E15700541D0E5D1100B596CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E15700601D0E5E8500B596CB /* velocimetro.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = velocimetro.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +104,7 @@
 				E15700391D0E5CF100B596CB /* Assets.xcassets */,
 				E157003B1D0E5CF100B596CB /* LaunchScreen.storyboard */,
 				E157003E1D0E5CFA00B596CB /* Info.plist */,
+				E15700601D0E5E8500B596CB /* velocimetro.playground */,
 			);
 			path = Semana4Swift;
 			sourceTree = "<group>";
